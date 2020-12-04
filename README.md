@@ -13,7 +13,7 @@ Operate three LEDs using Raspberry pi with linux.
 |5|150Ω Resistor|3|
 
 # Circuit
-
+![キャプチャ](https://user-images.githubusercontent.com/50652151/101168661-19692600-367f-11eb-98eb-d5c2cc75d4ee.PNG)
 
 # How to use
 **Build**
