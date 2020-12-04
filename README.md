@@ -2,13 +2,16 @@
 Make device driver with Raspberry pi 3 model B+ <br>
 Operate three LEDs using Raspberry pi with linux.
 
-# About this decive driver
-**How to use**
+# How to use
+**Preparation**
 ```python
 make
 sudo insmod myled.ko
-sudo chmod 666 /dev/myled0
-echo command /dev/myled0
+sudo chmod 666 /dev/myled0 
+```
+**Command**
+```python
+echo command > /dev/myled0
 ```
 
 **commands** <br>
@@ -19,5 +22,5 @@ echo command /dev/myled0
 4:Turn on all LED <br>
 5:flash like wave
 
-**Experiment** <br>
+**video** <br>
 [Experiment video]()
