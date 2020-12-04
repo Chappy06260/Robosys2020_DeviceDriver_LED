@@ -31,11 +31,11 @@ $ echo command > /dev/myled0
 
 **command list** <br>
 ```python
-0: Turn off all LED <br>
-1: Turn on only LED1 <br>
-2: Turn on only LED2 <br>
-3: Turn on only LED3 <br>
-4: Turn on all LED <br>
+0: Turn off all LED 
+1: Turn on only LED1 
+2: Turn on only LED2 
+3: Turn on only LED3 
+4: Turn on all LED 
 5: flash like wave
 ```
 
