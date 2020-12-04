@@ -4,6 +4,7 @@ Operate three LEDs using Raspberry pi with linux.
 
 # Requirements
 |No.|Item Name|Quantity|
+|---|---|
 |1|Raspberry Pi 3 model B+|1|
 
 # Circuit
