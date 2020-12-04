@@ -11,7 +11,7 @@ sudo chmod 666 /dev/myled0
 echo command /dev/myled0
 ```
 
-**commands**
+**commands** <br>
 0:Turn off all LED <br>
 1:Turn on only First LED <br>
 2:Turn on only Second LED <br>
