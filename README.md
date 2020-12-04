@@ -16,11 +16,13 @@ Operate three LEDs using Raspberry pi with linux.
 
 
 # How to use
-**Preparation**
+**Build**
 ```python
-1: make
-2: sudo insmod myled.ko
-3: sudo chmod 666 /dev/myled0 
+$ git clone
+$ cd Robosys_DeviceDriver
+$ make 
+$ sudo insmod myled.ko
+$ sudo chmod 666 /dev/myled0 
 ```
 **Command**
 ```python
