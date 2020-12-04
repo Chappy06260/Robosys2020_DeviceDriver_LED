@@ -12,7 +12,7 @@ Operate three LEDs using Raspberry pi with linux.
 |4|Cable|7|
 |5|150Ω Resistor|3|
 
-# Circuit
+# Circuit diagram
 ![キャプチャ](https://user-images.githubusercontent.com/50652151/101168661-19692600-367f-11eb-98eb-d5c2cc75d4ee.PNG)
 
 # How to use
@@ -32,9 +32,9 @@ $ echo command > /dev/myled0
 **command list** <br>
 ```python
 0: Turn off all LED <br>
-1: Turn on only First LED <br>
-2: Turn on only Second LED <br>
-3: Turn on only Third LED <br>
+1: Turn on only LED1 <br>
+2: Turn on only LED2 <br>
+3: Turn on only LED3 <br>
 4: Turn on all LED <br>
 5: flash like wave
 ```
