@@ -41,7 +41,7 @@ $ echo command > /dev/myled0
 1: Turn on only LED1 
 2: Turn on only LED2 
 3: Turn on only LED3 
-4: Turn on all LED 
+4: Turn on  all LED 
 5: Flash like wave
 ```
 
