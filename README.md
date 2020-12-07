@@ -1,6 +1,6 @@
 # Description
-Make device driver with Raspberry pi 3 model B+ <br>
-Operate three LEDs using Raspberry pi with linux. <br>
+Make device driver with Raspberry Pi 3 model B+ <br>
+Operate three LEDs using Raspberry Pi with linux. <br>
 ![mq1](https://user-images.githubusercontent.com/50652151/101313947-dedbd500-389a-11eb-9bba-37b5c9db4200.jpg) <br>
 Used lecture materials of Robosys as a reference. <br>
 https://github.com/ryuichiueda/robosys2020.git
