@@ -1,6 +1,7 @@
 # Description
 Make device driver with Raspberry pi 3 model B+ <br>
 Operate three LEDs using Raspberry pi with linux.
+![mq1](https://user-images.githubusercontent.com/50652151/101313947-dedbd500-389a-11eb-9bba-37b5c9db4200.jpg)
 
 # Requirements
 
@@ -45,6 +46,4 @@ $ echo command > /dev/myled0
 ```
 
 **video** <br>
-![mq1](https://user-images.githubusercontent.com/50652151/101313947-dedbd500-389a-11eb-9bba-37b5c9db4200.jpg)
-
 [Experiment video](https://youtu.be/g7YNr11Z7pQ)
