@@ -24,6 +24,11 @@ $ make
 $ sudo insmod myled.ko
 $ sudo chmod 666 /dev/myled0 
 ```
+**unbuild**
+```python
+$ sudo rmmod myled
+```
+
 **Run**
 ```python
 $ echo command > /dev/myled0
